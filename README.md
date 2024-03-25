@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **paradon.m95@gmail.com**
 
-- ⚡ Fun fact [click for more detail..](https://github.com/rizbikit1781)
+- ⚡ Fun fact [click for more detail. .](https://github.com/rizbikit1781)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
