@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paradon Meeanan</h1>
-<h3 align="center">A passionate software developer based on Calgary, Alberta, Canada</h3>
+<h1>Hi 👋, I'm Paradon Meeanan</h1>
+<h3>A passionate software developer based on Calgary, Alberta, Canada</h3>
 
 - 🔭 I’m currently working on [Capstone project: Schedule"R"Us](https://github.com/SchedulesRUs/SchedulesRUs)
 
