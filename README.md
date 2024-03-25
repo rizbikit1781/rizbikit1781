@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://paradonmeeanan.com/](https://paradonmeeanan.com/)
 
-- 👥 My other github account at [Github](https://github.com/donnysait88)/)
+- 👥 My other github account at [Github](https://github.com/donnysait88)
 
 - 📫 How to reach me **paradon.m95@gmail.com**
 
