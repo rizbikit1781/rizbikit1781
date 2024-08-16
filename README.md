@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Autograder: Automate programming assignment grading with precision and ease](https://autograder-next-demo.vercel.app/)
 
-- 🌱 I’m currently learning **vue, three.js and gsap**
+- 🌱 I’m currently learning **C#.Net Core MVC, Docker Container, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://paradonmeeanan.com/](https://paradonmeeanan.com/)
 
-- 👥 My other github account at [Github](https://github.com/donnysait88)
+- 👥 My other github account at [Github](https://github.com/paradonsunsab)
 
 - 📫 How to reach me **paradon.m95@gmail.com**
 
