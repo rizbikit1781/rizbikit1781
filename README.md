@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Autograder: Automate programming assignment grading with precision and ease](https://autograder-next-demo.vercel.app/)
 
-- 🌱 I’m currently learning **C#.Net Core MVC, Docker container, Spring Boot**
+- 🌱 I’m currently learning **C#.Net Core MVC, Microsoft Power Platform , Web API**
 
 - 👨‍💻 All of my projects are available at [https://paradonmeeanan.com/](https://paradonmeeanan.com/)
 
