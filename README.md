@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Paradon Meeanan</h1>
 <h3>A passionate software developer based on Calgary, Alberta, Canada</h3>
 
-- 🔭 I’m currently working on [Autograder: Automate programming assignment grading with precision and ease](https://autograder-next-demo.vercel.app/)
+- 🔭 I’m currently working on Microsoft Power Platform - Power BI, Power Apps, Power Automate, Power Pages and Copilots Studio.
 
 - 🌱 I’m currently learning **C#.Net Core MVC, Microsoft Power Platform , Web API**
 
