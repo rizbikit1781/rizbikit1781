@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#.Net Core MVC, Microsoft Power Platform , Web API**
 
-- 👨‍💻 All of my projects are available at [https://paradonmeeanan.com/](https://paradonmeeanan.com/)
+- 👨‍💻 All of my projects are available at [https://paradonm.ca/](https://paradonm.ca/)
 
 - 👥 My other github account at [Github](https://github.com/SunsabParadon)
 
